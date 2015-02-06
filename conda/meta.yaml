@@ -1,0 +1,11 @@
+package:
+  name: metis
+  version: 5.1.0
+
+requirements:
+  build:
+    - cmake [win]
+
+about:
+  home: http://glaros.dtc.umn.edu/gkhome/metis/metis
+  license: GPLv3
